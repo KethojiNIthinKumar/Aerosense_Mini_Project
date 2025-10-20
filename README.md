@@ -12,21 +12,22 @@ AeroSense aims to:
 
 # Key Features
 
-Hybrid Neural Network Model trained on over 58,000 commercial flight records
-Inputs include: actuator positions, pilot control inputs, flight path data, and environmental conditions
+<li>Hybrid Neural Network Model trained on over 58,000 commercial flight records
+<li>Inputs include: actuator positions, pilot control inputs, flight path data, and environmental conditions
 
 # Performance:
 
-Sensitivity: 85% — correctly identifies potential hard landings
-Specificity: 74% — avoids unnecessary false alarms
-Designed for real-time deployment in cockpit systems
+<li>Sensitivity: 85% — correctly identifies potential hard landings
+<li>Specificity: 74% — avoids unnecessary false alarms
+<li>Designed for real-time deployment in cockpit systems
 
 # Dataset
 
-Source: Commercial flight data (anonymized)
-Size: 58,177 flight records
-Features Used:
-Aircraft state parameters
-Pilot control inputs
-Environmental variables (e.g., wind, visibility)
-Landing outcomes (normal vs hard)
+<li>Source: Commercial flight data (anonymized)
+<li>Size: 58,177 flight records
+  
+# Features Used:
+<li>Aircraft state parameters
+<li>Pilot control inputs
+<li>Environmental variables (e.g., wind, visibility)
+<li>Landing outcomes (normal vs hard)
