@@ -6,9 +6,9 @@ AeroSense is a cockpit-deployable machine learning system designed to assist fli
 
 More than 50% of commercial aviation accidents occur during approach and landing phases, many of which could be avoided by timely go-around decisions. Currently, these decisions rely heavily on pilot judgment under high-pressure conditions.
 AeroSense aims to:
-Predict the probability of a hard landing before touchdown
-Provide real-time decision support to flight crews
-Reduce risk by enhancing situational awareness
+<li>Predict the probability of a hard landing before touchdown
+<li>Provide real-time decision support to flight crews
+<li>Reduce risk by enhancing situational awareness
 
 # Key Features
 
